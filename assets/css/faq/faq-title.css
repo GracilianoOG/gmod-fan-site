@@ -1,0 +1,23 @@
+.faq__title {
+    color: var(--garry-blue);
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+
+    .faq_title {
+        font-size: 1.6rem;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .fat_title {
+        font-size: 2rem;
+    }
+}

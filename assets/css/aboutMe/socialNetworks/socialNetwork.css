@@ -1,0 +1,9 @@
+.social-network:hover {
+    opacity: 0.75;
+}
+
+.social-network--disabled {
+    cursor: default;
+    opacity: 0.6;
+    pointer-events: none;
+}

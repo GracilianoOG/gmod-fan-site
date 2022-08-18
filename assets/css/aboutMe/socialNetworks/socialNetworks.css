@@ -1,0 +1,5 @@
+.social-networks {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 1.25rem;
+}

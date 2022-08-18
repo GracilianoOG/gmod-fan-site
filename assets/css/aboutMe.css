@@ -1,0 +1,10 @@
+.about-me {
+    align-items: center;
+    column-gap: 3rem;
+    display: flex;
+    flex-wrap: wrap;
+    height: 75vh;
+    justify-content: space-around;
+    max-height: 600px;
+    padding-top: 8rem;
+}

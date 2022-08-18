@@ -1,0 +1,9 @@
+.buy-game {
+    background-color: var(--garry-blue);
+    /* background shorthand: color - image - repeat - attachment - position */
+    background: url("../img/purchase-banner.png") no-repeat center / cover;
+    height: 75vh;
+    max-height: 800px;
+    position: relative;
+    width: 100%;
+}

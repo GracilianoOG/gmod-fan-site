@@ -1,0 +1,55 @@
+/* General Configuration */
+@import "./general/reset.css";
+@import "./general/base.css";
+@import "./general/colors.css";
+
+/* Header */
+@import "./header.css";
+
+/* Navigation Menu */
+@import "./navigation/navigation-list.css";
+@import "./navigation/navigation-item.css";
+@import "./navigation/navigation-link.css";
+
+/* Logo */
+@import "./logo.css";
+
+/* Banner */
+@import "./banner.css";
+@import "./banner/banner-title.css";
+
+/* Main Content */
+@import "./main.css";
+
+/* FAQ */
+@import "./faq.css";
+@import "./faq/faq-title.css";
+@import "./faq/faq-text.css";
+
+/* Buy Game */
+@import "./buyGame.css";
+@import "./buyGame/buyGame-link.css";
+
+/* Blogs */
+@import "./blogs.css";
+@import "./blogs/blogs-title.css";
+
+/* Blog (individual) */
+@import "./blogs/blog/blog.css";
+@import "./blogs/blog/blog-link.css";
+@import "./blogs/blog/blog-image.css";
+@import "./blogs/blog/blog-description.css";
+
+/* About Me */
+@import "./aboutMe.css";
+@import "./aboutMe/aboutMe-image.css";
+@import "./aboutMe/aboutMe-text.css";
+
+/* Social Networks */
+@import "./aboutMe/socialNetworks/socialNetworks.css";
+@import "./aboutMe/socialNetworks/socialNetwork.css";
+@import "./aboutMe/socialNetworks/socialNetwork-image.css";
+
+/* Footer */
+@import "./footer.css";
+@import "./footer/footer-text.css";

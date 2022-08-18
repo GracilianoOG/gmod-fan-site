@@ -1,0 +1,27 @@
+.banner__title {
+    bottom: 15%;
+    color: var(--garry-blue);
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 3rem;
+    font-weight: 500;
+    padding: .5rem 0;
+    position: absolute;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 1px 1px white, -1px -1px white, -1px 1px white, 1px -1px white;
+    width: 100%;
+}
+
+@media screen and (min-width: 600px) {
+    
+    .banner__title {
+        font-size: 4.25rem;
+    }
+}
+
+@media screen and (min-width: 768px) {
+
+    .banner__title {
+        font-size: 5rem;
+    }
+}

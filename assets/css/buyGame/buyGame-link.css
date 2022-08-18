@@ -1,0 +1,20 @@
+.buy-game__link {
+    background-color: var(--garry-blue);
+    border: 2px solid transparent;
+    border-radius: 25px;
+    box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.25);
+    color: var(--light-white);
+    left: 50%; /* Move baseado no elemento absoluto */
+    padding: 1rem 0;
+    position: absolute;
+    transform: translate(-50%, -50%); /* Move baseado no próprio elemento */
+    transition: border-color 0.3s ease-in;
+    text-decoration: none;
+    text-align: center;
+    top: 50%;
+    width: 235px;
+}
+
+.buy-game__link:hover {
+    border: 2px solid var(--light-white);
+}
